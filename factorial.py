@@ -7,4 +7,4 @@ def factorial(n): #function definition
 # Test the factorial function
 print(factorial(5)) #120
 print(factorial(10)) #3628800
-print(factorial(0)) #1
+print(factorial(0)) 
